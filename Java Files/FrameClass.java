@@ -15,7 +15,7 @@ public class FrameClass{
 
 	public FrameClass(){
 
-		// System.out.println("Hello Shiv Ji and Rajveer This Code Is Directly Puch From Editor");
+		// System.out.println("Hello Shiv Ji and Rajveer This Code Is Directly Push From Editor");
 
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setVisible(true);
